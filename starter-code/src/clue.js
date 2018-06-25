@@ -189,5 +189,4 @@ function revealMistery(misteryEnvelope) {
   return firstName + " " + lastName + " killed Mr.Boddy using the " + weapon + " in the " + place + "!!!!"
   
 }
-misteryEnvelope = pickMistery(charactersArray, weaponsArray, roomsArray);
-revealMistery(misteryEnvelope);
+
